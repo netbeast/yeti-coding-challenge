@@ -15,12 +15,11 @@ The idea is to prove that you can create a fully featured app, using git as vers
 
 ## Features that are going to be evaluated
 
-- [ ] You are using [react-navigation](https://reactnavigation.org/)
-- [ ] You are using [redux](https://redux.js.org/) to manage the state of the app, with async actions (e.g [thunks](https://github.com/gaearon/redux-thunk))
-- [ ] You have linked a native dependency, as [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
-
-## Bonuses
-
-- [ ] You are using eslint (without semis please :eyes: https://www.npmjs.com/package/eslint-config-airbnb-standard)
-- [ ] You are using [prettier](https://prettier.io/)
-- [ ] You have some [jest](https://facebook.github.io/jest/) tests
+- [ ] App works on iOS, Android or both [react-navigation](https://reactnavigation.org/) (10 points)
+- [ ] You are using [react-navigation](https://reactnavigation.org/) (20 points)
+- [ ] You are consuming [Github oficial API REST](https://developer.github.com/v3/) (10 points)
+- [ ] You are using [redux](https://redux.js.org/) to manage the state of the app, with async actions [thunks](https://github.com/gaearon/redux-thunk) (20 points)
+- [ ] You have linked and used [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) (10 points)
+- [ ] You are using eslint (without semis please :eyes: https://www.npmjs.com/package/eslint-config-airbnb-standard) (5 points)
+- [ ] You have some tests only for actions and reducers using [mocha](https://mochajs.org/) and [should](https://shouldjs.github.io/) (15 points)
+- You use any React pattern you want (HOC, Component Wrapping, ...) (10 points)
