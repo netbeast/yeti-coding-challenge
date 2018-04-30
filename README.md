@@ -23,3 +23,9 @@ The idea is to prove that you can create a fully featured app, using git as vers
 - [ ] You are using eslint (without semis please :eyes: https://www.npmjs.com/package/eslint-config-airbnb-standard) (5 points)
 - [ ] You have some tests only for actions and reducers using [mocha](https://mochajs.org/) and [should](https://shouldjs.github.io/) (15 points)
 - [ ] You use any React pattern you want (HOC, Component Wrapping, ...) (10 points)
+
+## Extra notes
+
+If you don't have a Mac you can just create the Android version of the challenge. In order to submit your solution you have to create a Github repo and add a Readme with the guides to test it. You can provide any extra info that you consider on it.
+
+Long story short... good luck and enjoy React Native 💪
