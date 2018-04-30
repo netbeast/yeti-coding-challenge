@@ -16,7 +16,8 @@ The idea is to prove that you can create a fully featured app, using git as vers
 ## Features that are going to be evaluated
 
 - [ ] You are using [react-navigation](https://reactnavigation.org/)
-- [ ] You are using [redux](https://redux.js.org/) to manage the state of the app
+- [ ] You are using [redux](https://redux.js.org/) to manage the state of the app, with async actions (e.g [thunks](https://github.com/gaearon/redux-thunk))
+- [ ] You have linked a native dependency, as [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 
 ## Bonuses
 
