@@ -22,4 +22,4 @@ The idea is to prove that you can create a fully featured app, using git as vers
 - [ ] You have linked and used [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) (10 points)
 - [ ] You are using eslint (without semis please :eyes: https://www.npmjs.com/package/eslint-config-airbnb-standard) (5 points)
 - [ ] You have some tests only for actions and reducers using [mocha](https://mochajs.org/) and [should](https://shouldjs.github.io/) (15 points)
-- You use any React pattern you want (HOC, Component Wrapping, ...) (10 points)
+- [ ] You use any React pattern you want (HOC, Component Wrapping, ...) (10 points)
